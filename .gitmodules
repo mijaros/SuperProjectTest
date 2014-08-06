@@ -1,0 +1,3 @@
+[submodule "PenguinServer"]
+	path = PenguinServer
+	url = git@github.com:xjaros1/PenguinServer.git
